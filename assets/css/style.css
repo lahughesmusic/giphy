@@ -1,0 +1,20 @@
+body{
+    background-image: url('vidgame.png');
+}
+
+button{
+    background-color: #59d3d9;
+    height: 75px;
+    border-radius: 18px;
+    border-color:lightgray;
+    border: 3px;
+    margin-right: 3px; 
+}
+
+#submit{
+    background-color: lightgray;
+    border-radius: 20px;
+
+
+
+}
